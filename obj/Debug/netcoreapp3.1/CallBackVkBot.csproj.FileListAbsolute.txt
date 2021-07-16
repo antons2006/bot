@@ -1,0 +1,10 @@
+C:\Users\Антон\source\repos\CallBackVkBot\CallBackVkBot\obj\Debug\netcoreapp3.1\CallBackVkBot.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\CallBackVkBot\CallBackVkBot\obj\Debug\netcoreapp3.1\CallBackVkBot.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\CallBackVkBot\CallBackVkBot\obj\Debug\netcoreapp3.1\CallBackVkBot.AssemblyInfo.cs
+C:\Users\Антон\source\repos\CallBackVkBot\CallBackVkBot\obj\Debug\netcoreapp3.1\CallBackVkBot.RazorAssemblyInfo.cache
+C:\Users\Антон\source\repos\CallBackVkBot\CallBackVkBot\obj\Debug\netcoreapp3.1\CallBackVkBot.RazorAssemblyInfo.cs
+C:\Users\Антон\source\repos\CallBackVkBot\CallBackVkBot\obj\Debug\netcoreapp3.1\staticwebassets\CallBackVkBot.StaticWebAssets.Manifest.cache
+C:\Users\Антон\source\repos\CallBackVkBot\CallBackVkBot\obj\Debug\netcoreapp3.1\staticwebassets\CallBackVkBot.StaticWebAssets.xml
+C:\Users\Антон\source\repos\CallBackVkBot\CallBackVkBot\obj\Debug\netcoreapp3.1\scopedcss\bundle\CallBackVkBot.styles.css
+C:\Users\Антон\source\repos\CallBackVkBot\CallBackVkBot\obj\Debug\netcoreapp3.1\CallBackVkBot.TagHelpers.input.cache
+C:\Users\Антон\source\repos\CallBackVkBot\CallBackVkBot\obj\Debug\netcoreapp3.1\CallBackVkBot.TagHelpers.output.cache
